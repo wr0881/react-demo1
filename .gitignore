@@ -1,0 +1,17 @@
+#IDE
+.idea/
+
+#npm
+node_modules/
+
+#build
+
+build/
+
+#log
+
+*.log
+
+#spider
+
+list.action!*
