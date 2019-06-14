@@ -63,7 +63,7 @@ export default [
           {
             path: '/server/cezhi',
             name: '测智终端服务',
-            component: './404',
+            component: './Server/CzServer',
           },
         ],
       },
